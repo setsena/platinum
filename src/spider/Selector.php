@@ -1,6 +1,11 @@
 <?php
 namespace Platinum\Spider;
 
+/**
+ * HTML DOM选择器
+ * Class Selector
+ * @package Platinum\Spider
+ */
 class Selector
 {
     /**
