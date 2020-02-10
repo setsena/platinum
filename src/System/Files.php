@@ -1,7 +1,7 @@
 <?php
 
 
-class File
+class Files
 {
 
 
