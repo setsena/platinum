@@ -1,5 +1,5 @@
 <?php
-namespace Platinum\Spider;
+namespace Platinum\System;
 
 class Strings
 {

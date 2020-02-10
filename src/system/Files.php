@@ -1,5 +1,5 @@
 <?php
-
+namespace Platinum\System;
 
 class Files
 {
