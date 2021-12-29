@@ -41,6 +41,8 @@ class Files
                 }
             }
 
+            closedir($path);
+
             return $files;
 
         } else {
